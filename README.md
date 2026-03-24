@@ -75,7 +75,9 @@ Si todo está bien, verás algo así:
 ```bash
 pip install -r requirements.txt
 ```
-
+```bash
+nbstripout --install
+```
 ---
 
 ### 4. Seleccionar el entorno en VS Code
