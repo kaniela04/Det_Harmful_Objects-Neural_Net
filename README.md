@@ -146,5 +146,3 @@ Si tienes problemas al ejecutar, intenta:
 * Verificar versión de Python (debe ser 3.10)
 * Reinstalar dependencias
 * Asegurarte de seleccionar el entorno correcto
-
-8
