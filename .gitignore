@@ -1,5 +1,7 @@
 venv310/
 data/
+MNIST_data/
+notebooks/MNIST_data/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
