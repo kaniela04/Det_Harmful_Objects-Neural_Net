@@ -6,8 +6,16 @@ Este proyecto consiste en el desarrollo de una red neuronal utilizando **PyTorch
 
 ## ¿Qué hace este proyecto?
 
-El objetivo es entrenar un modelo de inteligencia artificial capaz de identificar objetos peligrosos dentro de un conjunto de imágenes.
+El proyecto implementa redes neuronales utilizando PyTorch para el aprendizaje y clasificación de imágenes.
 
+Se desarrollan ejercicios progresivos utilizando:
+
+- Tensores en PyTorch
+- Redes neuronales básicas
+- Dataset MNIST
+- Clasificación de imágenes
+- Entrenamiento de modelos MLP
+- Detección de objetos peligrosos mediante un dataset personalizado
 Se trabajan conceptos como:
 
 * Tensores
@@ -39,7 +47,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ```bash
 git clone <URL_DEL_REPO>
-cd Detection_Of_Harmful_Objects-Neural_Network
+cd  Det_Harmful_Objects-Neural_Net 
 ```
 
 ---
